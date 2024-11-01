@@ -1,0 +1,6 @@
+[submodule "flutter-frontend/Tripee"]
+	path = flutter-frontend/Tripee
+	url = https://github.com/Bakerus/Tripee.git
+[submodule "spring-boot-backend/tripee"]
+	path = spring-boot-backend/tripee
+	url = https://github.com/letlabs-ndj/tripee.git
