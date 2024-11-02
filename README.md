@@ -26,8 +26,7 @@ Each submodule can now be accessed and set up individually.
 ### Frontend: Flutter Application
 
 - Location: CGWEB-lameute-tripee/flutter-frontend
-- Setup Instructions:
-  1. Navigate to the frontend folder:
+- Navigate to the frontend folder:
 
           cd CGWEB-lameute-tripee/flutter-frontend
   
@@ -35,8 +34,7 @@ Each submodule can now be accessed and set up individually.
 ### Backend: Spring Boot Application
 
 - Location: CGWEB-lameute-tripee/spring-boot-backend
-- Setup Instructions:
-  1. Navigate to the backend folder:
+- Navigate to the backend folder:
 
           cd CGWEB-lameute-tripee/spring-boot-backend
     
