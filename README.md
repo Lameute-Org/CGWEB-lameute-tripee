@@ -20,7 +20,8 @@ Each submodule is stored in its own repository. Follow the instructions below to
    
 
 2. Then update each module with command :
-     git submodule update --remote --merge
+
+   git submodule update --remote --merge
 
 Each submodule can now be accessed and set up individually.
 
