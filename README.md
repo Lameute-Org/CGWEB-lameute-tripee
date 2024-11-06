@@ -16,7 +16,7 @@ Each submodule is stored in its own repository. Follow the instructions below to
 1. Clone the Main Repository  
    Clone the main repository, including the submodules:
 
-      git clone --recurse-submodules https://github.com/Lameute-Org/CGWEB-lameute-tripee.git
+      ``git clone --recurse-submodules https://github.com/Lameute-Org/CGWEB-lameute-tripee.git``
    
 
 2. Then update each module with command :
