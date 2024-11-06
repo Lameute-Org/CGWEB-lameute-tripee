@@ -12,7 +12,7 @@ Each submodule is stored in its own repository. Follow the instructions below to
 - Java & Spring Boot: For backend development. 
 
 ## Cloning the Project
-
+   ## A. Methode 1
 1. Clone the Main Repository  
    Clone the main repository, including the submodules:
 
@@ -23,6 +23,21 @@ Each submodule is stored in its own repository. Follow the instructions below to
 
    git submodule update --remote --merge
 
+   ## B. Methode 2
+   1. Clone the Main Repository  
+   Clone the main repository, including the submodules:
+
+      git clone https://github.com/Lameute-Org/CGWEB-lameute-tripee.git
+   
+
+2. Then add all repo submodules using the command :
+
+   git submodule update --init
+
+3. Then update each module with command :
+
+   git submodule update --remote
+   
 Each submodule can now be accessed and set up individually.
 
 ## Submodule Structure
