@@ -24,7 +24,7 @@ Each submodule is stored in its own repository. Follow the instructions below to
    git submodule update --remote --merge
 
    ## B. Methode 2
-   1. Clone the Main Repository  
+1. Clone the Main Repository  
    Clone the main repository, including the submodules:
 
       git clone https://github.com/Lameute-Org/CGWEB-lameute-tripee.git
